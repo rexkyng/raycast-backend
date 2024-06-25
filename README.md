@@ -6,7 +6,7 @@ This is a fake Raycast backend that can be deployed to Vercel in just one step.
 > [!TIP]
 > It can be used to unlock Raycast Pro and Raycast AI (with your own OpenAI API key). Simply click to deploy.
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fourongxing%2Ffake-raycast-backend&env=OPENAI_API_KEY,RAYCAST_EMAIL&envDescription=Only%20users%20of%20this%20email%20can%20use%20it.&envLink=https%3A%2F%2Fgithub.com%2Fourongxing%2Ffake-raycast-backend%3Ftab%3Dreadme-ov-file%23fake-raycast-backend)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2rexkyng%2Fraycast-backend&env=OPENAI_API_KEY,RAYCAST_EMAIL&envDescription=Only%20users%20of%20this%20email%20can%20use%20it.&envLink=https%3A%2F%2Fgithub.com%2rexkyng%2Fraycast-backend%3Ftab%3Dreadme-ov-file%23fake-raycast-backend)
 
 When deploying, remember to set the `OPENAI_API_KEY` and `RAYCAST_EMAIL` environment variables. The `RAYCAST_EMAIL` should be the email address you use to log in to Raycast.
 
